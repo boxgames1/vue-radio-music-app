@@ -1,10 +1,10 @@
 # platzi-music
 
-> App course vue.js platzi
+> Radio App under Last FM API with Vue
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 

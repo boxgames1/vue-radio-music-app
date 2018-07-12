@@ -1,4 +1,4 @@
-# platzi-music
+# Vue-radio-music-app
 
 > Radio App under Last FM API with Vue
 
